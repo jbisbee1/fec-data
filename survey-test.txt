@@ -1,0 +1,4587 @@
+[[AdvancedFormat]] 
+
+[[Block: Firm Names - 0]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NORTH DAKOTA GRAND FORKS ND
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF NORTH DAKOTA GRAND FORKS ND
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GOODRICH ISR SYSTEMS PRINCETON
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GOODRICH ISR SYSTEMS PRINCETON (HOLT)
+[[Choice: 2]] 
+             GOODRICH ISR SYSTEMS PRINCETON
+
+[[Block: Firm Names - 10]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OCEANIC INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OCEANIC INSTITUTE WAIMANALU HI
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LOCKHEED MARTIN MISSILES AND FIRE CONTROL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             LOCKHEED MARTIN
+
+[[Block: Firm Names - 20]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEBRASKA MEDICAL CENTER OMAHA NE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEBRASKA OMAHA
+[[Choice: 2]] 
+             UNIVERSITY OF NEBRASKA MEDICAL CENTER
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF NEBRASKA MEDICAL CENTER OMAHA NE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         APPALACHIAN MOUNTAIN CLUB BOSTON MA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             APPALACHIAN MOUNTAIN CLUB BOSTON MA
+
+[[Block: Firm Names - 30]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         IOWA STATE UNIVERSITY AMES IA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             AMES IOWA
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             IOWA STATE UNIVERSITY AMES IA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF ALABAMA IN HUNTSVILLE HUNTSVILLE AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF ALABAMA IN HUNTSVILLE
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF ALABAMA IN HUNTSVILLE HUNTSVILLE AL
+[[Choice: 4]] 
+             UNIVERSITY OF ALABAMA AT HUNTSVILLE
+
+[[Block: Firm Names - 40]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CAMPBELL COUNTY SHERIFF RUSTBURG VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COUNTY OF CAMPBELL VA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF ARKANSAS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF ARKANSAS AT LITTLE ROCK
+[[Choice: 2]] 
+             UNIVERSITY OF ARKANSAS AT PINE BLUFF
+[[Choice: 3]] 
+             CRIMINAL JUSTICE INSTITUTE UNIVERSITY OF ARKANSAS SYSTEM
+[[Choice: 4]] 
+             UNIVERSITY OF ARKANSAS CRIMINAL JUSTICE INSTITUTE
+
+[[Block: Firm Names - 50]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         STANDING ROCK SIOUX TRIBE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             STANDING ROCK SIOUX TRIBE FORT YATES ND
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF SEATTLE SEATTLE WA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF SEATTLE SEATTLE WA
+
+[[Block: Firm Names - 60]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF MOBILE AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF MOBILE AL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF WASHINGTON SEATTLE WA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             SEATTLE UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF WASHINGTON SEATTLE WA
+[[Choice: 4]] 
+             THE UNIVERSITY OF WASHINGTON
+
+[[Block: Firm Names - 70]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GOODRICH CORPORATION TURBINE FUEL TECHNOLOGIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GOODRICH CORPORATION
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF SOUTH CAROLINA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MEDICAL UNIVERSITY OF SOUTH CAROLINA
+[[Choice: 2]] 
+             DEPARTMENT OF CHEMISTRY AND BIOCHEMISTRY UNIVERSITY OF SOUTH CAROLINA
+[[Choice: 3]] 
+             UNIVERSITY OF SOUTH CAROLINA LAW SCHOOL
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 80]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALBANY STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ARMAMENTS RESEARCH DEVELOPMENT AND ENGINEERING CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNITED STATES ARMY ARMAMENTS RESEARCH DEVELOPMENT AND ENGINEERING CENTER
+
+[[Block: Firm Names - 90]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ADVOCATE GOOD SAMARITAN HOSPITAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ADVOCATE GOOD SAMARITAN HOSPITAL DOWNERS GROVE IL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF CENTRAL FLORIDA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF CENTRAL FLORIDA
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 100]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SAINT FRANCIS UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SAINT FRANCIS UNIVERSITY
+[[Choice: 2]] 
+             ST FRANCIS UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BENET LABORATORIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BENET LABORATORIES
+
+[[Block: Firm Names - 110]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FLORIDA GULF COAST UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FLORIDA GULF COAST UNIVERSITY FT MYERS FL
+[[Choice: 2]] 
+             FLORIDA GULF COAST UNIVERSITY FORT MYERS FL
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF FLORIDA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF FOLSOM FOLSOM CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF FOLSOM FOLSOM CA
+
+[[Block: Firm Names - 120]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WESTERN KENTUCKY UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             EASTERN KENTUCKY UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF KENTUCKY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF TEXAS AT AUSTIN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF TEXAS AT AUSTIN
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF TEXAS AUSTIN
+
+[[Block: Firm Names - 130]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BENEDICTINE UNIVERSITY LISLE IL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL COUNCIL OF JUVENILE AND FAMILY COURT JUDGES RENO NV
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL COUNCIL OF JUVENILE AND FAMILY COURT JUDGES RENO NV
+
+[[Block: Firm Names - 140]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         VIRGINIA CENTER FOR POLICING INNOVATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CENTER FOR INNOVATION
+[[Choice: 2]] 
+             VIRGINIA CENTER FOR POLICING INNOVATION RICHMOND VA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL CENTER FOR STATE COURTS WILLIAMSBURG VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL CENTER FOR STATE COURTS WILLIAMSBURG VA
+
+[[Block: Firm Names - 150]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         QBASE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             QBASE INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ROLLS ROYCE NAVAL MARINE INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ROLLS ROYCE NAVAL MARINE INC
+[[Choice: 2]] 
+             ROLLS ROYCE NAVAL MARINE INC (WICKER)
+
+[[Block: Firm Names - 160]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FARM SAFETY JUST 4 KIDS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FARM SAFETY 4 JUST KIDS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HOMESTRETCH FALLS CHURCH VI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HOMESTRETCH FALLS CHURCH VI
+
+[[Block: Firm Names - 170]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LONGWORTH INDUSTRIES (MARINE CORPS)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             LONGWORTH INDUSTRIES (MARINE CORPS)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MARY MITCHELL FAMILY AND YOUTH CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MARY MITCHELL FAMILY AND YOUTH CENTER INC BRONX NY
+
+[[Block: Firm Names - 180]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEBRASKA AT OMAHA NE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEBRASKA AT OMAHA
+[[Choice: 2]] 
+             UNIVERSITY OF NEBRASKA OMAHA
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF NEBRASKA AT OMAHA NE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF PRATTVILLE PRATTVILLE AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF PRATTVILLE PRATTVILLE AL
+
+[[Block: Firm Names - 190]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LUCAS COUNTY OH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             LUCAS COUNTY TASC INC TOLEDO OH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DELAWARE STATE POLICE DOVER DE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             STATE OF DELAWARE CAPITOL POLICE DOVER DE
+
+[[Block: Firm Names - 200]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MALDEN MILLS INDUSTRIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MALDEN MILLS
+[[Choice: 2]] 
+             MALDEN MILL INDUSTRIES
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MILIKEN AND COMPANY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MILLIKEN AND COMPANY
+
+[[Block: Firm Names - 210]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BINGHAMTON UNIVERSITY CENTER FOR AUTONOMOUS SOLAR POWER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             BINGHAMTON UNIVERSITY CENTER FOR AUTONOMOUS SOLAR POWER
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHICAGO ILLINOIS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF CHICAGO AND ILLINOIS DEPARTMENT OF NATURAL RESOURCES
+[[Choice: 2]] 
+             UNIVERSITY OF ILLINOIS AT CHICAGO
+[[Choice: 3]] 
+             UNIVERSITY OF ILLINOIS AT CHICAGO CHICAGO IL
+[[Choice: 4]] 
+             ILLINOIS SCIENCE AND TECHNOLOGY COALITION CHICAGO IL
+
+[[Block: Firm Names - 220]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         YUKON RIVER DRAINAGE FISHERIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             YUKON RIVER DRAINAGE FISHERIES ASSOCIATION ANCHORAGE AK
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF FORT SMITH POLICE DEPARTMENT FORT SMITH AR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF FORT SMITH POLICE DEPARTMENT FORT SMITH AR
+
+[[Block: Firm Names - 230]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         AIR FORCE RESEARCH LABORATORY AT WRIGHT PATTERSON AIR FORCE BASE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             AIR FORCE RESEARCH LABORATORY AT WRIGHT PATTERSON AIR FORCE BASE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ARMY TANK AUTOMOTIVE RESEARCH DEVELOPMENT AND ENGINEERING CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US ARMY TANK AUTOMOTIVE RESEARCH DEVELOPMENT AND ENGINEERING CENTER
+
+[[Block: Firm Names - 240]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALFALIGHT INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALFALIGHT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF CONNECTICUT STORRS CT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF CONNECTICUT STORRS CT
+
+[[Block: Firm Names - 250]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HONEYWELL DEFENSE AND SPACE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HONEYWELL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         STEPHEN F AUSTIN UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             STEPHEN F AUSTIN UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             STEPHEN S AUSTIN STATE UNIVERSITY
+
+[[Block: Firm Names - 260]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COUNTY OF ONONDAGA SYRACUSE NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COUNTY OF ONONDAGA SYRACUSE NY
+[[Choice: 2]] 
+             ONONDAGA COUNTY SYRACUSE NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SPARTON
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SPARTON ELECTRONICS
+
+[[Block: Firm Names - 270]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAYTHEON INTEGRATED DEFENSE SYSTEMS (KERRY) DRS POWER TECHNOLOGY INC (KIRK)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DRS INC
+[[Choice: 2]] 
+             RAYTHEON INTEGRATED DEFENSE SYSTEMS (KERRY) DRS POWER TECHNOLOGY INC (KIRK)
+[[Choice: 3]] 
+             RAYTHEON
+[[Choice: 4]] 
+             DRS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MALDEN MILL INDUSTRIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MALDEN MILLS INDUSTRIES
+
+[[Block: Firm Names - 280]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NORTH CAROLINA STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTH CAROLINA A AND T STATE UNIVERSITY
+[[Choice: 2]] 
+             NORTH CAROLINA STATE UNIVERSITY RALEIGH NC
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             NORTH CAROLINA STATE UNIVERSITY COLLEGE OF TEXTILES (ETHERIDGE)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF IDAHO MICROELECTRONICS RESEARCH AND COMMUNICATIONS INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF IDAHO MICROELECTRONICS RESEARCH AND COMMUNICATIONS INSTITUTE
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 290]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CLARKSON UNIVERSITY (GILLIBRAND)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLARKSON UNIVERSITY (GILLIBRAND)
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DEPARTMENT OF DEFENSE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DEPARTMENT OF DEFENSE (PETRI)
+
+[[Block: Firm Names - 300]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ROCKDALE COUNTY SHERIFFS OFFICE ROCKDALE COUNTY GA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ROCKDALE COUNTY SHERIFFS OFFICE CONYERS GA
+[[Choice: 2]] 
+             ROCKDALE COUNTY SHERIFF OFFICE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NOAA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NOAA
+[[Choice: 2]] 
+             NOAA NATIONAL WEATHER SERVICE PACIFIC REGION HEADQUARTERS
+[[Choice: 3]] 
+             NOAA OFFICE OF EDUCATION
+[[Choice: 4]] 
+             NOAA OFFICE OF EDUCATION MONTEREY CA
+
+[[Block: Firm Names - 310]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF HARTFORD HOUSING AUTHORITY HARTFORD CT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF HARTFORD HOUSING AUTHORITY HARTFORD CT
+[[Choice: 2]] 
+             CITY OF HARTFORD HARTFORD CT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SUSSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SUSSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT NEWTON NJ
+[[Choice: 2]] 
+             ESSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT
+
+[[Block: Firm Names - 320]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF INDIANAPOLIS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF INDIANAPOLIS INDIANAPOLIS IN
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KANSAS AIR NATIONAL GUARD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             KANSAS NATIONAL GUARD
+[[Choice: 2]] 
+             KANSAS ARMY NATIONAL GUARD
+
+[[Block: Firm Names - 330]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PHOENIX HOUSE DUBLIN NH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PHOENIX HOUSE DUBLIN NH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         C9 CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PRECISION FLOW TECHNOLOGIES C/O C9 CORPORATION
+
+[[Block: Firm Names - 340]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         XAVIER UNIVERSITY NEW ORLEANS LA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             XAVIER UNIVERSITY NEW ORLEANS LA
+[[Choice: 2]] 
+             UNIVERSITY OF NEW ORLEANS NEW ORLEANS LA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KSARIA (KERRY TSONGAS)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             KSARIA (KERRY TSONGAS)
+
+[[Block: Firm Names - 350]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF MONTGOMERY MONTGOMERY AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF MONTGOMERY AND MONTGOMERY COUNTY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOUTHEAST KANSAS REGIONAL LAW ENFORCEMENT GROUP OSWEGO KS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOUTHEAST KANSAS REGIONAL LAW ENFORCEMENT GROUP OSWEGO KS
+
+[[Block: Firm Names - 360]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHILDRENS HOSPITAL OF THE KINGS DAUGHTERS NORFOLK VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHILDRENS HOSPITAL OF THE KINGS DAUGHTERS NORFOLK VA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEVADA AT LAS VEGAS LAS VEGAS NV
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF NEVADA LAS VEGAS LAS VEGAS NV
+[[Choice: 3]] 
+             UNIVERSITY OF NEVADA LAS VEGAS
+
+[[Block: Firm Names - 370]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALLIANT TECHSYSTEMS INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ATK (ALLIANT TECHSYSTEMS INC) (CRAPO)
+[[Choice: 2]] 
+             ALLIANT TECHSYSTEMS INC (ATK)
+[[Choice: 3]] 
+             ALLIANT TECHSYSTEMS INC  (ATK MISSION SYSTEMS – AEROSPACE STRUCTURES DIVISION)
+[[Choice: 4]] 
+             ALLIANT TECHSYSTEMS (ATK) INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOUTHEAST MISSOURI DRUG TASK FORCE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOUTHEAST MISSOURI DRUG TASK FORCE SIKESTON MO
+
+[[Block: Firm Names - 380]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALVERNIA UNIVERSITY READING PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF READING READING PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OUR CITY READING READING PA
+
+[[Block: Firm Names - 390]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF TEXAS AT EL PASO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF TEXAS AT EL PASO EL PASO TX
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         US ARMY MEDICAL MATERIEL DEVELOPMENT ACTIVITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US ARMY
+
+[[Block: Firm Names - 400]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         IDAHO STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             IDAHO STATE UNIVERSITY POCATELLO ID
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEVADA AT RENO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEVADA RENO
+[[Choice: 2]] 
+             GRANT SAWYER CENTER UNIVERSITY OF NEVADA AT RENO
+[[Choice: 3]] 
+             UNIVERSITY OF RENO
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 410]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WASHINGTON MILITARY DEPARTMENT (LARSEN MCDERMOTT)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WASHINGTON MILITARY DEPARTMENT (LARSEN MCDERMOTT)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MARSHALL UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MARSHALL UNIVERSITY HUNTINGTON WV
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 420]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE CITY OF BRIDGEPORT CT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF BRIDGEPORT BRIDGEPORT CT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HAMILTON SUNDSTRAND
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HAMILTON SUNDSTRAND (MANZULLO DURBIN)
+
+[[Block: Firm Names - 430]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SAFE STREETS CAMPAIGN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SAFE STREETS CAMPAIGN TACOMA WA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COUNTY OF KINGS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OFFICE OF THE KINGS COUNTY DISTRICT ATTORNEY BROOKLYN NY
+[[Choice: 2]] 
+             COUNTY OF KINGS HANFORD CA
+
+[[Block: Firm Names - 440]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         IMC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL INTEREST SECURITY COMPANY (NISC) / INFORMATION MANUFACTURING COMPANY (IMC)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GREATER SYRACUSE CHAMBER OF COMMERCE SYRACUSE NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GREATER SYRACUSE CHAMBER OF COMMERCE SYRACUSE NY
+
+[[Block: Firm Names - 450]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF OMAHA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF OMAHA OMAHA NE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SUSQUEHANNA RIVER BASIN COMMISSION HARRIS BURG PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SUSQUEHANNA RIVER BASIN COMMISSION HARRIS BURG PA
+
+[[Block: Firm Names - 460]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION SILVER SPRING MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF MONTEREY PARK POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF MONTEREY PARK MONTEREY PARK CA
+
+[[Block: Firm Names - 470]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CULLMAN COUNTY COMMISSION CULLMAN AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CULLMAN COUNTY COMMISSION CULLMAN AL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OGLALA SIOUX TRIBE DEPARTMENT OF PUBLIC SAFETY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OGLALA SIOUX TRIBE
+[[Choice: 2]] 
+             OGLALA SIOUX TRIBE DEPARTMENT OF PUBLIC SAFETY PINE RIDGE SD
+
+[[Block: Firm Names - 480]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SAN DIEGO STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MIAMI DADE COUNTY PUBLIC SCHOOLS MIAMI FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MIAMI DADE COUNTY MIAMI FL
+[[Choice: 2]] 
+             MIAMI DADE COUNTY PUBLIC SCHOOLS MIAMI FL
+
+[[Block: Firm Names - 490]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MONMOUTH UNIVERSITY WEST LONG BRANCH NJ
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             MONMOUTH UNIVERSITY WEST LONG BRANCH NJ
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         IDAHO METH PROJECT BOISE ID
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             IDAHO METH PROJECT BOISE ID
+
+[[Block: Firm Names - 500]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAPE ABUSE AND INCEST NATIONAL NETWORK
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RAPE ABUSE AND INCEST NATIONAL NETWORK
+[[Choice: 2]] 
+             RAPE ABUSE INCEST NATIONAL NETWORK (RAINN) WASHINGTON DC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FIRST STEP
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FIRST STEP TAYLOR ML
+
+[[Block: Firm Names - 510]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW HAMPSHIRE ATTORNEY GENERALS OFFICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEW HAMPSHIRE ATTORNEY GENERALS OFFICE CONCORD NH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MARSHALL SPACE FLIGHT CENTER HUNTSVILLE AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MARSHALL SPACE FLIGHT CENTER HUNTSVILLE AL
+[[Choice: 2]] 
+             MARSHALL SPACE RIGHT CENTER HUNTSVILLE AL
+
+[[Block: Firm Names - 520]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF KALISPELL KALISPELL MT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF KALISPELL KALISPELL MT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         VENTURA COUNTY SHERIFF
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             VENTURA COUNTY SHERIFF VENTURA CA
+
+[[Block: Firm Names - 530]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL FORENSIC SCIENCE TECHNOLOGY CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL FORENSIC SCIENCE TECHNOLOGY CENTER LARGO FL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF RICHMOND RICHMOND VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF RICHMOND RICHMOND VA
+
+[[Block: Firm Names - 540]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FUELCELL ENERGY INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FUELCELL ENERGY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MICHIGAN TECHNOLOGICAL UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MICHIGAN TECHNOLOGICAL UNIVERSITY
+
+[[Block: Firm Names - 550]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LEHIGH UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             LEHIGH UNIVERSITY BETHLEHEM PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ARKANSAS STATE UNIVERSITY NEWPORT AR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ARKANSAS STATE UNIVERSITY NEWPORT AR
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF ARKANSAS
+
+[[Block: Firm Names - 560]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HARRIS COUNTY CONSTABLE PRECINCT 4 SPRING TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HARRIS COUNTY CONSTABLE PRECINCT 7
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OGLALA SIOUX TRIBE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OGLALA SIOUX TRIBE
+[[Choice: 2]] 
+             OGLALA SIOUX TRIBE DEPARTMENT OF PUBLIC SAFETY PINE RIDGE SD
+
+[[Block: Firm Names - 570]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALION SCIENCE AND TECHNOLOGY CORP / BMH OPERATIONS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALION SCIENCE AND TECHNOLOGY CORP / BMH OPERATIONS
+[[Choice: 2]] 
+             ALION SCIENCE AND TECHNOLOGY INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HENSCHEL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HENSCHEL INC
+
+[[Block: Firm Names - 580]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PLYMOUTH STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             PLYMOUTH STATE UNIVERSITY PLYMOUTH NH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF CALIFORNIA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF CALIFORNIA REDLANDS
+[[Choice: 2]] 
+             FDA AND UNIVERSITY OF CALIFORNIA AT DAVIS
+[[Choice: 3]] 
+             CALIFORNIA UNIVERSITY OF PENNSYLVANIA
+[[Choice: 4]] 
+             UNIVERSITY OF CALIFORNIA SANTA CRUZ
+
+[[Block: Firm Names - 590]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALLENTOWN POLICE DEPARTMENT ALLENTOWN PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALLENTOWN POLICE DEPARTMENT ALLENTOWN PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SALEM POLICE DEPARTMENT SALEM MA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF SALEM POLICE DEPARTMENT
+
+[[Block: Firm Names - 600]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SCHUMER)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SCHUMER)
+[[Choice: 2]] 
+             GILLIBRAND AND SCHUMER DID NOT DISCLOSE RECIPIENT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF OMAHA OMAHA NE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF OMAHA OMAHA NE
+
+[[Block: Firm Names - 610]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEUROSCIENCE CENTER OF EXCELLENCE AT THE NORTHERN CALIFORNIA INSTITUTE FOR RESEARCH AND EDUCATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTHERN CALIFORNIA INSTITUTE FOR RESEARCH AND EDUCATION (NCIRE)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BRIDGES USA MEMPHIS IN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BRIDGES USA MEMPHIS TN
+
+[[Block: Firm Names - 620]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ADVANCED SCIENCE AND TECHNOLOGY ADJUDICATION RESOURCE CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ADVANCED SCIENCE AND TECHNOLOGY ADJUDICATION RESOURCE CENTER INC (ASTAR) WASHINGTON DC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF SOUTHERN MISSISSIPPI HATTIESBURG MS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF SOUTHERN MISSISSIPPI HATTIESBURG MS
+[[Choice: 2]] 
+             UNIVERSITY OF SOUTHERN MISSISSIPPI
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             THE UNIVERSITY OF SOUTHERN MISSISSIPPI
+
+[[Block: Firm Names - 630]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SIOUX CITY POLICE DEPARTMENT SIOUX CITY IA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SIOUX CITY POLICE DEPARTMENT SIOUX CITY IA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         APPALACHIAN MOUNTAIN CLUB
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             APPALACHIAN MOUNTAIN CLUB BOSTON MA
+
+[[Block: Firm Names - 640]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF CHICAGO AND ILLINOIS DEPARTMENT OF NATURAL RESOURCES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF CHICAGO AND ILLINOIS DEPARTMENT OF NATURAL RESOURCES
+[[Choice: 2]] 
+             ILLINOIS DEPARTMENT OF NATURAL RESOURCES
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ARGON ST
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ARGONST
+
+[[Block: Firm Names - 650]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LOMA LINDA UNIVERSITY MEDICAL CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             LOMA LINDA UNIVERSITY MEDICAL CENTER
+[[Choice: 3]] 
+             LOMA LINDA UNIVERSITY MEDICAL CENTER LOMA LINDA CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MONTEREY INSTITUTE FOR INTERNATIONAL STUDIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MONTEREY INSTITUTE FOR INTERNATIONAL STUDIES
+
+[[Block: Firm Names - 660]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BRIARCLIFF MANOR POLICE DEPARTMENT BRIARCLIFF MANOR NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TOWN OF OSSINING POLICE DEPARTMENT BRIARCLIFF MANOR NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FAYETTEVILLE WORKS PLANT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FAYETTEVILLE WORKS PLANT
+
+[[Block: Firm Names - 670]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CLEARFIELD CITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLEARFIELD CITY CLEARFIELD UT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW CASTLE POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             THE NEW CASTLE COUNTY POLICE DEPARTMENT
+
+[[Block: Firm Names - 680]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF CHATTANOOGA CHATTANOOGA TN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF CHATTANOOGA CHATTANOOGA TN
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE MANOR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             THE MANOR JONESVILLE ML
+
+[[Block: Firm Names - 690]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         VERNON POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             VIENNA POLICE DEPARTMENT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PHOENIX ACADEMY LAKE VIEW TERRACE CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PHOENIX ACADEMY LAKE VIEW TERRACE CA
+
+[[Block: Firm Names - 700]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HOUSTONWORKS USA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HOUSTONWORKS USA HOUSTON TX
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MIAMI BASCOM PALMER EYE INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF MIAMI
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF MIAMI MIAMI FL
+
+[[Block: Firm Names - 710]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW ENGLAND AQUARIUM
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEW ENGLAND AQUARIUM BOSTON MA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CALIFORNIA STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             LONG BEACH/CALIFORNIA STATE UNIVERSITY
+[[Choice: 2]] 
+             CALIFORNIA STATE UNIVERSITY AT LONG BEACH CCDOTT
+[[Choice: 3]] 
+             CALIFORNIA POLYTECHNIC STATE UNIVERSITY
+[[Choice: 4]] 
+             CALIFORNIA STATE UNIVERSITY DOMINGUEZ HILLS CARSON CA
+
+[[Block: Firm Names - 720]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TECHNOLOGY SYSTEMS INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             IMAGING SYSTEMS TECHNOLOGY INC 
+[[Choice: 2]] 
+             OPTICAL SYSTEMS TECHNOLOGY INC
+[[Choice: 3]] 
+             TECHNOLOGY SYSTEMS INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         EXETER POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             EXETER POLICE DEPARTMENT READING PA
+
+[[Block: Firm Names - 730]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF SAN BERNARDINO CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF SAN BERNARDINO CA
+[[Choice: 2]] 
+             CITY OF SAN BERNARDINO SAN BERNARDINO CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LOUISIANA STATE UNIVERSITY A AND M COLLEGE BATON ROUGE LA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             LOUISIANA STATE UNIVERSITY A AND M COLLEGE BATON ROUGE LA
+[[Choice: 3]] 
+             LOUISIANA STATE UNIVERSITY
+[[Choice: 4]] 
+             LSU A AND M BATON ROUGE LA
+
+[[Block: Firm Names - 740]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL PARK SERVICE APOSTLE ISLANDS NATIONAL LAKESHORE BAYFIELD WI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL PARK SERVICE APOSTLE ISLANDS NATIONAL LAKESHORE BAYFIELD WI
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF LOUISVILLE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF LOUISVILLE
+[[Choice: 2]] 
+             UNIVERSITY OF LOUISVILLE AND EWA (MCCONNELL)
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF LOUISVILLE RESEARCH FOUNDATION
+
+[[Block: Firm Names - 750]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OFFICE OF NATIONAL DRUG CONTROL POLICY WASHINGTON DC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             IOWA OFFICE OF DRUG CONTROL POLICY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF LOS ANGELES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF US ANGELES LOS ANGELES CA
+[[Choice: 2]] 
+             CITY OF LOS ANGELES LOS ANGELES CA
+[[Choice: 3]] 
+             CITY OF LOS ANGELES GLASSELL PARK RECREATION CENTER
+
+[[Block: Firm Names - 760]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HILLSIDE FAMILY OF AGENCIES GREENBELT MD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HILLSIDE FAMILY OF AGENCIES GREENBELT MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF PHILADELPHIA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF PHILADELPHIA
+[[Choice: 2]] 
+             CITY OF PHILADELPHIA PHILADELPHIA PA
+[[Choice: 3]] 
+             CITY OF PHILADELPHIA PA
+
+[[Block: Firm Names - 770]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GENESEE COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OFFICE OF THE GENESEE COUNTY SHERIFF
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CALIFORNIA STATE UNIVERSITY FULLERTON
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CALIFORNIA STATE UNIVERSITY FULLERTON
+[[Choice: 2]] 
+             CALIFORNIA STATE UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF CALIFORNIA
+[[Choice: 4]] 
+             THE CALIFORNIA STATE UNIVERSITY
+
+[[Block: Firm Names - 780]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF LOUISVILLE AND EWA (MCCONNELL)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF LOUISVILLE AND EWA (MCCONNELL)
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF LOUISVILLE LOUISVILLE KY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PECKHAM INDUSTRIES (ROGERS STABENOW)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PECKHAM INDUSTRIES (ROGERS STABENOW)
+
+[[Block: Firm Names - 790]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ECONOMIC DEVELOPMENT COUNCIL OF TALLAHASSEE/LEON COUNTY INC TALLAHASSEE FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             LEON COUNTY TALLAHASSEE FL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW MEXICO STATE UNIVERSITY LAS CRUCES NM
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             NEW MEXICO STATE UNIVERSITY LAS CRUCES NM
+[[Choice: 3]] 
+             UNIVERSITY OF NEW MEXICO
+
+[[Block: Firm Names - 800]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEBRASKA LINCOLN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEBRASKA LINCOLN LINCOLN NE
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             LINCOLN UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF NEBRASKA LINCOLN
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNION COUNTY SHERIFF EL DORADO AR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNION COUNTY SHERIFF EL DORADO AR
+
+[[Block: Firm Names - 810]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF GLENDALE GLENDALE AZ
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF GLENDALE GLENDALE CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         IDAHO STATE POLICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             IDAHO STATE POLICE MERIDIAN ID
+
+[[Block: Firm Names - 820]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CAL RIPKEN SR FOUNDATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CAL RIPKEN SR FOUNDATION BALTIMORE MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ST PETERSBURG COLLEGE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             THE ST PETERSBURG COLLEGE
+[[Choice: 2]] 
+             THE ST PETERSBURG COLLEGE ST PETERSBURG FL
+[[Choice: 3]] 
+             ST PETERBURG COLLEGE
+
+[[Block: Firm Names - 830]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KAMAN CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             KAMAN CORPORATION
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF COLLEGE PARK COLLEGE PARK GA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF COLLEGE PARK COLLEGE PARK GA
+
+[[Block: Firm Names - 840]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAVEN INDUSTRIES (JOHNSON TIM)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RAVEN INDUSTRIES (JOHNSON TIM)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HOPE THROUGH HOUSING FOUNDATION RANCHO CUCAMONGA CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HOPE THROUGH HOUSING FOUNDATION RANCHO CUCAMONGA CA
+
+[[Block: Firm Names - 850]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         STATE OF IOWA OFFICE OF DRUG CONTROL POLICY DES MOINES IA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             STATE OF IOWA OFFICE OF DRUG CONTROL POLICY DES MOINES IA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE CRIMINAL JUSTICE TRAINING CENTER GOLDEN WEST COLLEGE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CRIMINAL JUSTICE TRAINING CENTER GOLDEN WEST COLLEGE HUNTINGTON BEACH CA
+
+[[Block: Firm Names - 860]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GENERAL DYNAMICS/FT BRAGG
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GENERAL DYNAMICS/FT BRAGG
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GREENE COUNTY MISSOURI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GREENE COUNTY MISSOURI SPRINGFIELD MO
+
+[[Block: Firm Names - 870]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOUTH CAROLINA RESEARCH AUTHORITY (BROWN ROGERS WILSON)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOUTH CAROLINA RESEARCH AUTHORITY (BROWN ROGERS WILSON)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COOK COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COOK COUNTY SHERIFFS OFFICE CHICAGO IL
+
+[[Block: Firm Names - 880]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAYTHEON
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RAYTHEON MARITIME MISSION CENTER
+[[Choice: 2]] 
+             RAYTHEON TECHNICAL SERVICES COMPANY
+[[Choice: 3]] 
+             RAYTHEON COMPANY
+[[Choice: 4]] 
+             RAYTHEON INTEGRATED DEFENSE SYSTEMS (KERRY) DRS POWER TECHNOLOGY INC (KIRK)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ST THOMAS UNIVERSITY MIAMI GARDENS FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             ST THOMAS UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF MIAMI MIAMI FL
+
+[[Block: Firm Names - 890]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PECKHAM VOCATIONAL INDUSTRIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PECKHAM VOCATIONAL INDUSTRIES
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF PITTSBURGH SCHOOL OF HEALTH AND REHABILITATION SCIENCES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF PITTSBURGH SCHOOL OF HEALTH AND REHABILITATION SCIENCES
+
+[[Block: Firm Names - 900]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ELECTRIC FUEL BATTERY CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ELECTRIC FUEL BATTERY CORPORATION (AROTECH SUBSIDIARY)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF MOULTRIE MOULTRIE GA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF MOULTRIE MOULTRIE GA
+
+[[Block: Firm Names - 910]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNITED WAY OF ALLEGHENY COUNTY PITTSBURGH PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNITED WAY OF ALLEGHENY COUNTY
+[[Choice: 2]] 
+             UNITED WAY OF ALLEGHENY COUNTY PITTSBURGH PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         VIRGINIA TECH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             VIRGINIA TECH
+[[Choice: 2]] 
+             VIRGINIA TECH UNIVERSITY
+
+[[Block: Firm Names - 920]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WAYNE COUNTY ECONOMIC DEVELOPMENT DISTRICT WAYNESBORO MS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WAYNE COUNTY ECONOMIC DEVELOPMENT DISTRICT WAYNESBORO MS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CALHOUN COUNTY COMMISSION CALHOUN COUNTY AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CALHOUN COUNTY COMMISSION CALHOUN COUNTY AL
+
+[[Block: Firm Names - 930]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DEFENSHIELD INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DEFENSESHIELD INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         STONY BROOK UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 940]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE UNIVERSITY OF KANSAS [JAMES A ROBERTS PHD PE] ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             THE UNIVERSITY OF KANSAS [JAMES A ROBERTS PHD PE] ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NDSU CENTER FOR NANOSCALE SCIENCE AND ENGINEERING
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTH DAKOTA STATE UNIVERSITY CENTER FOR NANOSCALE SCIENCE AND ENGINEERING
+
+[[Block: Firm Names - 950]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GENERAL ATOMICS (COCHRAN WICKER CHILDERS)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GENERAL ATOMICS (COCHRAN WICKER CHILDERS)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CALIFORNIA UNIVERSITY OF PENNSYLVANIA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF CALIFORNIA
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 960]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW YORK NATIONAL GUARD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEW YORK STATE NATIONAL GUARD
+[[Choice: 2]] 
+             CIVIL SUPPORT TEAM OF THE NEW YORK NATIONAL GUARD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TRANSLATIONAL GENOMICS RESEARCH INSTITUTE (TGEN)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TRANSLATIONAL GENOMICS RESEARCH INSTITUTE (TGEN)
+
+[[Block: Firm Names - 970]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TENNESSEE BUREAU OF INVESTIGATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TENNESSEE BUREAU OF INVESTIGATION NASHVILLE TN
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEVADA RENO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEVADA RENO
+[[Choice: 2]] 
+             GRANT SAWYER CENTER UNIVERSITY OF NEVADA AT RENO
+[[Choice: 3]] 
+             UNIVERSITY OF RENO
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 980]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TEXAS ENGINEERING EXTENSION SERVICE COLLEGE STATION TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TEXAS COLLEGE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHICAGO STATE UNIVERSITY AND AMERICAN SCIENCE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHICAGO STATE UNIVERSITY AND AMERICAN SCIENCE
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 990]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOLANO COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COUNTY OF SOLANO FAIRFIELD CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TENNESSEE STATE UNIVERSITY (ALEXANDER)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF TENNESSEE
+
+[[Block: Firm Names - 1000]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         EXETER POLICE DEPARTMENT READING PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             EXETER POLICE DEPARTMENT READING PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PAX/REAL SOLUTIONS TO GUN VIOLENCE NEW YORK NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PAX/REAL SOLUTIONS TO GUN VIOLENCE NEW YORK NY
+
+[[Block: Firm Names - 1010]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ROGER WILLIAMS UNIVERSITY BRISTOL RI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             ROGER WILLIAMS UNIVERSITY BRISTOL RI
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FRONTIER POLYMERS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FRONTIER PERFORMANCE POLYMERS
+
+[[Block: Firm Names - 1020]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COURT APPOINTED SPECIAL ADVOCATE (CASA) MONTEREY PARK CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COURT APPOINTED SPECIAL ADVOCATE (CASA) MONTEREY PARK CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF SAGINAW POLICE DEPARTMENT SAGINAW ML
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF SAGINAW POLICE DEPARTMENT SAGINAW ML
+
+[[Block: Firm Names - 1030]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WASHINGTON COUNTY YOUTH SERVICE BUREAU MONTPELIER VT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WASHINGTON COUNTY MO
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEXT ENERGY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEXT ENERGY CENTER
+
+[[Block: Firm Names - 1040]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAYTHEON MISSILE SYSTEMS (MCCONNELL)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RAYTHEON MISSILE SYSTEMS (MCCONNELL)
+[[Choice: 2]] 
+             RAYTHEON MISSILE SYSTEMS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ML WILSON BOYS AND GIRLS CLUB OF HARLEM NEW YORK NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ML WILSON BOYS AND GIRLS CLUB OF HARLEM NEW YORK NY
+[[Choice: 2]] 
+             FC HARLEM NEW YORK NY
+
+[[Block: Firm Names - 1050]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         STEPHEN F AUSTIN STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             STEPHEN F AUSTIN UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             STEPHEN S AUSTIN STATE UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE CALIFORNIA STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CALIFORNIA STATE UNIVERSITY
+[[Choice: 2]] 
+             THE CALIFORNIA STATE UNIVERSITY
+[[Choice: 3]] 
+             CALIFORNIA STATE UNIVERSITY LONG BEACH FOUNDATION
+[[Choice: 4]] 
+             LONG BEACH/CALIFORNIA STATE UNIVERSITY
+
+[[Block: Firm Names - 1060]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HAWAII INSTITUTE OF MARINE BIOLOGY UNIVERSITY OF HAWAII
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF HAWAII
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         JOHNSON COUNTY GOVERNMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             JOHNSON COUNTY
+
+[[Block: Firm Names - 1070]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ADVANCED CONCEPTS AND TECHNOLOGIES INTERNATIONAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             C AND C TECHNOLOGIES
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF DORAL DORAL FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF DORAL DORAL FL
+
+[[Block: Firm Names - 1080]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MARYLAND PUBLIC SAFETY TRAINING AND TECHNICAL ASSISTANCE PROGRAM GREENBELT MD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF MARYLAND
+[[Choice: 2]] 
+             UNIVERSITY OF MARYLAND PUBLIC SAFETY TRAINING AND TECHNICAL ASSISTANCE PROGRAM GREENBELT MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OR JACKSONVILLE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF JACKSONVILLE FL JACKSONVILLE A
+[[Choice: 2]] 
+             CITY OF JACKSONVILLE BEACH JACKSONVILLE FL
+
+[[Block: Firm Names - 1090]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         US ARMY SPACE AND MISSILE COMMAND
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US ARMY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DALLAS COUNTY SHERIFFS DEPARTMENT DALLAS TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DALLAS COUNTY SHERIFFS DEPARTMENT DALLAS TX
+
+[[Block: Firm Names - 1100]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF FLORIDA COLLEGE OF MEDICINE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF FLORIDA
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF FLORIDA COLLEGE OF MEDICINE JACKSONVILLE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PIERCE COUNTY ALLIANCE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PIERCE COUNTY ALLIANCE TACOMA WA
+
+[[Block: Firm Names - 1110]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FARLEIGH DICKINSON UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HOWE AND HOWE TECHNOLOGIES INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             C AND C TECHNOLOGIES INC
+[[Choice: 2]] 
+             C AND C TECHNOLOGIES
+
+[[Block: Firm Names - 1120]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOUNDVIEW COMMUNITY IN ACTION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOUNDVIEW COMMUNITY IN ACTION BRONX NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WITTENBERG UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1130]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         INDIANA ARMY NATIONAL GUARD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             INDIANA NATIONAL GUARD
+[[Choice: 2]] 
+             INDIANA ARMY NATIONAL GUARD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RICHMOND POLICE ACTIVITIES LEAGUE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RICHMOND POLICE ACTIVITIES LEAGUE RICHMOND CA
+
+[[Block: Firm Names - 1140]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GEORGE MASON UNIVERSITY ARLINGTON VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             GEORGE MASON UNIVERSITY ARLINGTON VA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WATSON CHILDRENS SHELTER MISSOULA MT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WATSONS CHILDRENS SHELTER MISSOULA MT
+
+[[Block: Firm Names - 1150]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PULASKI COUNTY YOUTH SERVICES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PULASKI COUNTY YOUTH SERVICES LITTLE ROCK AR
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UTAH STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UTAH STATE UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UTAH STATE UNIVERSITY LOGAN UT
+[[Choice: 4]] 
+             SPACE DYNAMICS LABORATORY AT UTAH STATE UNIVERSITY
+
+[[Block: Firm Names - 1160]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MONTANA STATE UNIVERSITY BOZEMAN MT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MONTANA STATE UNIVERSITY BOZEMAN MT
+[[Choice: 2]] 
+             TECHRANCH AT MONTANA STATE UNIVERSITY BOZEMAN MT
+[[Choice: 3]] 
+             MONTANA STATE UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF MONTANA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GENERAL DYNAMICS ADVANCED INFORMATION SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GENERAL DYNAMICS
+
+[[Block: Firm Names - 1170]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CULLMAN COUNTY COMMISSION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CULLMAN COUNTY COMMISSION CULLMAN AL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COUNTY OF CAMPBELL VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF ALEXANDRIA POLICE DEPARTMENT CAMPBELL COUNTY KY
+[[Choice: 2]] 
+             CAMPBELL COUNTY SHERIFF RUSTBURG VA
+
+[[Block: Firm Names - 1180]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PACE CENTER FOR GIRLS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PACE CENTER FOR GIRLS INC JACKSONVILLE FL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF OAKLAND
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF OAKLAND
+[[Choice: 2]] 
+             CITY OF OAKLAND OAKLAND CA
+
+[[Block: Firm Names - 1190]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SPIN SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SPIN SYSTEMS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WILMINGTON POLICE DEPARTMENT WILMINGTON OH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WILMINGTON POLICE DEPARTMENT WILMINGTON NC
+[[Choice: 2]] 
+             WILMINGTON DEPARTMENT OF POLICE WILMINGTON DE
+
+[[Block: Firm Names - 1200]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WILMINGTON DEPARTMENT OF POLICE WILMINGTON DE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WILMINGTON POLICE DEPARTMENT WILMINGTON OH
+[[Choice: 2]] 
+             WILMINGTON POLICE DEPARTMENT WILMINGTON NC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         INDIANA UNIVERSITY CYCLOTRON FACILITY AND CRANE NAVAL SURFACE WARFARE CENTER VIA THE US DEPARTMENT OF THE NAVY RESEARCH DEVELOPMENT TEST AND EVALUATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             INDIANA UNIVERSITY
+[[Choice: 2]] 
+             US NAVY
+[[Choice: 3]] 
+             INDIANA UNIVERSITY CYCLOTRON FACILITY AND CRANE NAVAL SURFACE WARFARE CENTER VIA THE US DEPARTMENT OF THE NAVY RESEARCH DEVELOPMENT TEST AND EVALUATION
+[[Choice: 4]] 
+             US DEPARTMENT OF THE NAVY
+
+[[Block: Firm Names - 1210]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         L3
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             L3
+[[Choice: 2]] 
+             L3 COMMUNICATIONS
+[[Choice: 3]] 
+             L3 INTEGRATED OPTICAL SYSTEMS BRASHEAR
+[[Choice: 4]] 
+             L3 CHESAPEAKE SCIENCES CORPORATION
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HAUPTMAN WOODWARD MEDICAL RESEARCH INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HAUPTMAN WOODWARD MEDICAL RESEARCH INSTITUTE (GILLIBRAND
+
+[[Block: Firm Names - 1220]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MARYLAND BIOTECHNOLOGY INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF MARYLAND
+[[Choice: 3]] 
+             UNIVERSITY OF MARYLAND BIOTECHNOLOGY INSTITUTE BALTIMORE MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF FLINT POLICE DEPARTMENT FLINT ML
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF FLINT POLICE DEPARTMENT FLINT ML
+
+[[Block: Firm Names - 1230]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ZERO TO THREE CHEROKEE NC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ZERO TO THREE CHEROKEE NC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF ILLINOIS AT CHICAGO CHICAGO IL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHICAGO ILLINOIS
+[[Choice: 2]] 
+             UNIVERSITY OF ILLINOIS AT CHICAGO
+[[Choice: 3]] 
+             UNIVERSITY OF ILLINOIS AT CHICAGO CHICAGO IL
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1240]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF VICTORVILLE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF VICTORVILLE VICTORVILLE CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TREX ENTERPRISES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TREX ENTERPRISES
+[[Choice: 2]] 
+             TREX
+
+[[Block: Firm Names - 1250]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ANNAPOLIS ANNAPOLIS MD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NOAA CHESAPEAKE BAY OFFICE ANNAPOLIS MD
+[[Choice: 2]] 
+             MARYLAND DEPARTMENT OF NATURAL RESOURCES ANNAPOLIS MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WEST VIRGINIA UNIVERSITY MORGANTOWN WV
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WEST VIRGINIA UNIVERSITY MORGANTOWN WV
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1260]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF PITTSBURGH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF PITTSBURGH SCHOOL OF HEALTH AND REHABILITATION SCIENCES
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALLEGHENY COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALLEGHENY COUNTY
+[[Choice: 2]] 
+             UNITED WAY OF ALLEGHENY COUNTY
+[[Choice: 3]] 
+             ALLEGHENY COUNTY HOUSING AUTHORITY PITTSBURGH PA
+[[Choice: 4]] 
+             UNITED WAY OF ALLEGHENY COUNTY PITTSBURGH PA
+
+[[Block: Firm Names - 1270]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NORTH TEXAS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF NORTH TEXAS HEALTH SCIENCE CENTER
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GEORGETOWN UNIVERSITY HOSPITAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1280]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF HARTSELLE POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF HARTSELLE HARTSELLE AL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UINTAH COUNTY VERNAL UT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UINTAH COUNTY UINTAH COUNTY UT
+[[Choice: 2]] 
+             UINTAH COUNTY VERNAL UT
+
+[[Block: Firm Names - 1290]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         AIR PRODUCTS AND CHEMICALS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             AIR PRODUCTS AND CHEMICALS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PROLOGIC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PROLOGIC INC
+
+[[Block: Firm Names - 1300]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GOODRICH ELECTRO OPTICAL SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GOODRICH SYSTEMS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TEXAS TECH UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TEXAS TECH UNIVERSITY
+[[Choice: 2]] 
+             TEXAS TECH UNIVERSITY LUBBOCK TX
+[[Choice: 3]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1310]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PENNYRILE NARCOTIC TASK FORCE HOPKINSVILLE KY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PENNYRILE NARCOTIC TASK FORCE HOPKINSVILLE KY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NORTHROP GRUMMAN AMHERST SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTHROP GRUMMAN AMHERST SYSTEMS
+
+[[Block: Firm Names - 1320]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF UTAH (KIRK)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF UTAH (KIRK)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ATK SMALL CALIBER AMMUNITION SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ATK
+
+[[Block: Firm Names - 1330]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         JACKSON POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             JACKSON TOWNSHIP POLICE DEPARTMENT NORTH JACKSON OH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ENGLEWOOD HOSPITAL AND MEDICAL CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ENGLEWOOD HOSPITAL AND MEDICAL CENTER
+
+[[Block: Firm Names - 1340]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PHOENIX HOUSE NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PHOENIX HOUSE NY
+[[Choice: 2]] 
+             PHOENIX HOUSE NEW YORK NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         JACKSON STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             JACKSON STATE UNIVERSITY JACKSON MS
+
+[[Block: Firm Names - 1350]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF SAN BERNARDINO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF SAN BERNARDINO CA
+[[Choice: 2]] 
+             CITY OF SAN BERNARDINO SAN BERNARDINO CA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF ARLINGTON
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF ALEXANDRIA ARLINGTON COUNTY ALEXANDRIA/ARLINGTON VA
+[[Choice: 2]] 
+             CITY OF ARLINGTON ARLINGTON GA
+
+[[Block: Firm Names - 1360]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LUNA COUNTY SHERIFFS DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLARK COUNTY SHERIFFS DEPARTMENT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SCIENCESOUTH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SCIENCESOUTH FLORENCE SC
+
+[[Block: Firm Names - 1370]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BIOPROTECTION SYSTEMS CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BIOPROTECTION SYSTEMS CORPORATION
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOUTHEAST MISSOURI STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MISSOURI STATE UNIVERSITY
+[[Choice: 2]] 
+             SOUTHEAST MISSOURI STATE UNIVERSITY CAPE GIRARDEAU MO
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF MISSOURI
+
+[[Block: Firm Names - 1380]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DEFENSESHIELD INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DEFENSHIELD INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FAMILY JUSTICE CENTER HILLSBOROUGH COUNTY TAMPA FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FAMILY JUSTICE CENTER HILLSBOROUGH COUNTY TAMPA FL
+[[Choice: 2]] 
+             HILLSBOROUGH COUNTY TAMPA FL
+
+[[Block: Firm Names - 1390]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         VIENNA POLICE DEPARTMENT VIENNA WV
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             VIENNA POLICE DEPARTMENT VIENNA WV
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALLEGHENY COUNT]
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALLEGHENY COUNTY
+
+[[Block: Firm Names - 1400]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL CENTER FOR APPROPRIATE TECHNOLOGY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL CENTER FOR APPROPRIATE TECHNOLOGY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHEYNEY UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHEYNEY UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1410]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TECHNIKON LLC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TECHNIKON LLC (LUNGREN)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF ALBUQUERQUE POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF ALBUQUERQUE POLICE DEPARTMENT
+
+[[Block: Firm Names - 1420]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ARMY PICATINNY ARSENAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US ARMY AT PICATINNY ARSENAL
+[[Choice: 2]] 
+             ARMY PICATINNY ARSENAL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         JOHN JAY COLLEGE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             JOHN JAY COLLEGE OF CRIMINAL JUSTICE NEW YORK NY
+
+[[Block: Firm Names - 1430]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         AUTOMATION ALLEY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             AUTOMATION ALLEY TROY ML
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF DETROIT DEGC DETROIT MI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF DETROIT MI
+[[Choice: 2]] 
+             CITY OF DETROIT DEGC DETROIT MI
+
+[[Block: Firm Names - 1440]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WESTWOOD CORPORATION L 3 COMMUNICATIONS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             L 3
+[[Choice: 2]] 
+             L 3 COMMUNICATIONS CORPORATION
+[[Choice: 3]] 
+             WESTWOOD CORPORATION L 3 COMMUNICATIONS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GOODRICH CORPORATION (BENNETT HATCH DODD COCHRAN WICKER BURR)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GOODRICH CORPORATION (BENNETT HATCH DODD COCHRAN WICKER BURR)
+[[Choice: 2]] 
+             HATCH
+
+[[Block: Firm Names - 1450]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW YORK CITY COLLEGE OF TECHNOLOGY BROOKLYN NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEW YORK CITY COLLEGE OF TECHNOLOGY BROOKLYN NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY MULTISPECTRAL LABS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY MULTISPECTRAL LABS
+
+[[Block: Firm Names - 1460]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF PHILADELPHIA PHILADELPHIA PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF PHILADELPHIA
+[[Choice: 2]] 
+             CITY OF PHILADELPHIA PHILADELPHIA PA
+[[Choice: 3]] 
+             CITY OF PHILADELPHIA PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TROY UNIVERSITY TROY AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TROY UNIVERSITY TROY AL
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1470]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW HAMPSHIRE STATE POLICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEW HAMPSHIRE STATE POLICE CONCORD NH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF BROCKTON MA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF BROCKTON BROCKTON MA
+[[Choice: 2]] 
+             CITY OF BROCKTON MA
+
+[[Block: Firm Names - 1480]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SCHOOL FOR MARINE SCIENCE AND TECHNOLOGY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SCHOOL FOR MARINE SCIENCE AND TECHNOLOGY (SMAST) NEW BEDFORD MA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ILLINOIS STATE GEOLOGICAL SURVEY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ILLINOIS STATE GEOLOGICAL SURVEY CHAMPIAGN IL
+
+[[Block: Firm Names - 1490]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CORE PHILLY PHILADELPHIA PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CORE PHILLY PHILADELPHIA PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PHOENIX HOUSE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PHOENIX HOUSE FLORIDA
+[[Choice: 2]] 
+             PHOENIX HOUSE NY
+[[Choice: 3]] 
+             PHOENIX HOUSE DUBLIN NH
+[[Choice: 4]] 
+             PHOENIX HOUSE SPRINGFIELD MA
+
+[[Block: Firm Names - 1500]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SID JACOBSON JEWISH COMMUNITY CENTER EAST HILLS NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SID JACOBSON JEWISH COMMUNITY CENTER EAST HILLS NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OHIO ARMY NATIONAL GUARD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OHIO ARMY NATIONAL GUARD
+[[Choice: 2]] 
+             OHIO NATIONAL GUARD
+[[Choice: 3]] 
+             323RD MILITARY POLICE COMPANY OHIO ARMY NATIONAL GUARD
+
+[[Block: Firm Names - 1510]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TEXAS TECH UNIVERSITY LUBBOCK TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TEXAS TECH UNIVERSITY LUBBOCK TX
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF BASTROP TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF BASTROP TX
+
+[[Block: Firm Names - 1520]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAPE ABUSE AND INCEST NATIONAL NETWORK (RAINN)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RAPE ABUSE AND INCEST NATIONAL NETWORK
+[[Choice: 2]] 
+             RAPE ABUSE INCEST NATIONAL NETWORK (RAINN) WASHINGTON DC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         RAYTHEON MISSILE SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             RAYTHEON MISSILE SYSTEMS (CROWLEY)
+[[Choice: 2]] 
+             RAYTHEON MISSILE SYSTEMS (MCCONNELL)
+[[Choice: 3]] 
+             RAYTHEON MISSILE SYSTEMS
+
+[[Block: Firm Names - 1530]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF KENTUCKY LEXINGTON KY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF KENTUCKY LEXINGTON KY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF SUFFOLK VA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF SUFFOLK VA
+[[Choice: 2]] 
+             CITY OF SUFFOLK SUFFOLK VA
+
+[[Block: Firm Names - 1540]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW HAMPSHIRE STATE POLICE CONCORD NH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEW HAMPSHIRE STATE POLICE CONCORD NH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PREVENTIVE MEDICINE RESEARCH INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PREVENTION MEDICINE RESEARCH INSTITUTE
+
+[[Block: Firm Names - 1550]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SAFER FOUNDATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SAFER FOUNDATION CHICAGO IL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CONVERTEAM
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CONVERTEAM INC
+
+[[Block: Firm Names - 1560]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MISSOURI COLUMBIA CENTER FOR BORANE TECHNOLOGY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF MISSOURI COLUMBIA
+[[Choice: 2]] 
+             COLUMBIA UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF MISSOURI COLUMBIA CENTER FOR BORANE TECHNOLOGY
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LOUISIANA STATE UNIVERSITY AGRICULTURAL CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             LOUISIANA STATE UNIVERSITY
+
+[[Block: Firm Names - 1570]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UCT DEFENSE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UCT DEFENSE LLC (COCHRAN)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PITTSBURGH GATEWAYS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PITTSBURGH GATEWAYS CORPORATION
+
+[[Block: Firm Names - 1580]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OHIO ASSN OF POLICE ATHLETIC/ACTIVITIES LEAGUE EUCLID OH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             POLICE ATHLETIC LEAGUE
+[[Choice: 2]] 
+             OHIO ASSN OF POLICE ATHLETIC/ACTIVITIES LEAGUE EUCLID OH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         EMSOLUTIONS (ARLINGTON VA) AND ULTRA ELECTRONICS (MANASSAS VA)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             EMSOLUTIONS (ARLINGTON VA) AND ULTRA ELECTRONICS (MANASSAS VA)
+
+[[Block: Firm Names - 1590]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL PARK SERVICE ST AUGUSTINE FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL PARK SERVICE ST AUGUSTINE FL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF VICTORVILLE VICTORVILLE CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF VICTORVILLE VICTORVILLE CA
+
+[[Block: Firm Names - 1600]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         A CHILD IS MISSING INC FT LAUDERDALE FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             A CHILD IS MISSING FT LAUDERDALE FL
+[[Choice: 2]] 
+             A CHILD IS MISSING INC FT LAUDERDALE FL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HONEYWELL AEROSPACE (PASTOR)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HONEYWELL AEROSPACE (PASTOR)
+[[Choice: 2]] 
+             HONEYWELL AEROSPACE
+
+[[Block: Firm Names - 1610]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF ROUND ROCK ROUND ROCK TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF ROUND ROCK ROUND ROCK TX
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MILWAUKEE PUBLIC SCHOOLS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MILWAUKEE PUBLIC SCHOOLS MILWAUKEE WL
+
+[[Block: Firm Names - 1620]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PIONEER VALLEY PLANNING COMMISSION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PIONEER VALLEY PLANNING COMMISSION WEST SPRINGFIELD MA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GEORGIA AIR NATIONAL GUARD SAVANNAH COMBAT READINESS TRAINING CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ARMY NATIONAL GUARD READINESS CENTER
+
+[[Block: Firm Names - 1630]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF COLORADO AT BOULDER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF COLORADO AT BOULDER BOULDER CO
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THURGOOD MARSHALL COLLEGE FUND NEW YORK NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             THURGOOD MARSHALL COLLEGE FUND NEW YORK NY
+
+[[Block: Firm Names - 1640]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HOUSING AUTHORITY OF CALVERT COUNTY PRINCE FREDERICK MD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HOUSING AUTHORITY OF CALVERT COUNTY PRINCE FREDERICK MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FLORIDA FISH AND WILDLIFE COMMISSION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FLORIDA FISH AND WILDLIFE CONSERVATION COMMISSION
+[[Choice: 2]] 
+             FLORIDA FISH AND WILDLIFE CONSERVATION COMMISSION TALLAHASSEE R
+
+[[Block: Firm Names - 1650]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEXT ENERGY CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NEXT ENERGY CENTER
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PORTLAND STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             PORTLAND STATE UNIVERSITY (BLUMENAUER
+
+[[Block: Firm Names - 1660]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NAVAL SURFACE WARFARE CENTER AT INDIAN HEAD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NAVAL SURFACE WARFARE CENTER AT INDIAN HEAD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PHILADELPHIA SAFETY NET
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PHILADELPHIA SAFETY NET PHILADELPHIA PA
+
+[[Block: Firm Names - 1670]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         EASTERN KENTUCKY PRIDE INC SOMERSET KY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             EASTERN KENTUCKY PRIDE INC SOMERSET KY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GOODRICH SYSTEMS (LEAHY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GOODRICH SYSTEMS (LEAHY
+
+[[Block: Firm Names - 1680]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MOBILISA INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             INTELLICHECK MOBILISA INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF EAST PALO ALTO EAST PALO ALTO CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF EAST PALO ALTO EAST PALO ALTO CA
+
+[[Block: Firm Names - 1690]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TEAM FOCUS MOBILE AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TEAM FOCUS MOBILE AL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOMERSET COUNTY OFFICE OF EMERGENCY MANAGEMENT SOMERVILLE NJ
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOMERSET COUNTY OFFICE OF EMERGENCY MANAGEMENT SOMERVILLE NJ
+[[Choice: 2]] 
+             ESSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT
+
+[[Block: Firm Names - 1700]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALACHUA COUNTY FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALACHUA COUNTY GAINESVILLE FL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SCHOTT NORTH AMERICA INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SCHOTT NORTH AMERICA
+
+[[Block: Firm Names - 1710]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF FLORIDA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF SOUTH FLORIDA
+[[Choice: 2]] 
+             UNIVERSITY OF FLORIDA
+[[Choice: 3]] 
+             UNIVERSITY OF SOUTH FLORIDA COLLEGE OF PUBLIC HEALTH
+[[Choice: 4]] 
+             UNIVERSITY OF SOUTHERN FLORIDA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HEARTLAND FAMILY SERVICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HEARTLAND FAMILY SERVICE OMAHA NE
+[[Choice: 2]] 
+             HEARTLAND FAMILY SERVICE INC COUNCIL BLUFFS IA
+
+[[Block: Firm Names - 1720]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OUR CITY READING READING PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF READING READING PA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TELEMEDICINE AND ADVANCED TECHNOLOGY RESEARCH CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TELEMEDICINE AND ADVANCED TECHNOLOGY RESEARCH CENTER
+[[Choice: 2]] 
+             US ARMY TELEMEDICINE AND ADVANCED TECHNOLOGY RESEARCH CENTER
+[[Choice: 3]] 
+             US TELEMEDICINE AND ADVANCED TECHNOLOGY RESEARCH CENTER (ARCURI)
+[[Choice: 4]] 
+             TELEMEDICINE ADVANCED TECHNOLOGY RESEARCH CENTER BUILDING 1054
+
+[[Block: Firm Names - 1730]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOMERSET COUNTY OFFICE OF EMERGENCY MANAGEMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOMERSET COUNTY OFFICE OF EMERGENCY MANAGEMENT SOMERVILLE NJ
+[[Choice: 2]] 
+             ESSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CENTER POINT INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CENTER POINT INC SAN RAFAEL CA
+
+[[Block: Firm Names - 1740]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF SOUTH CAROLINA COLUMBIA SC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COLUMBIA UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF SOUTH CAROLINA COLUMBIA SC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         US ARMY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US ARMY RESEARCH DEVELOPMENT AND ENGINEERING COMMAND
+[[Choice: 2]] 
+             US ARMY CORPS OF ENGINEERS BUFFALO DISTRICT
+[[Choice: 3]] 
+             US ARMY CORPS OF ENGINEERS
+[[Choice: 4]] 
+             US ARMY SPACE AND MISSILE COMMAND
+
+[[Block: Firm Names - 1750]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SPACE DYNAMICS LABORATORY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SPACE DYNAMICS LABORATORY AT UTAH STATE UNIVERSITY
+[[Choice: 2]] 
+             SPACE DYNAMICS LABORATORY LOGAN UT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         STATE OF ALASKA YUKON RIVER AK
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             STATE OF ALASKA YUKON RIVER AK
+
+[[Block: Firm Names - 1760]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TELEMEDICINE ADVANCED TECHNOLOGY RESEARCH CENTER BUILDING 1054
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TELEMEDICINE AND ADVANCED TECHNOLOGY RESEARCH CENTER
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WASHINGTON COUNTY HILLSBORO OR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WASHINGTON COUNTY MO
+
+[[Block: Firm Names - 1770]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DOWNRIVER COMMUNITY CONFERENCE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DOWNRIVER COMMUNITY CONFERENCE SOUTHGATE ML
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MOBILVOX INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MOBILVOX INC
+
+[[Block: Firm Names - 1780]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MONTANA METH PROJECT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MONTANA METH PROJECT MISSOULA MT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF WILSON WILSON NC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF WILSON WILSON NC
+
+[[Block: Firm Names - 1790]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF WILSON NC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF WILSON WILSON NC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SOUTH COAST INTERAGENCY NARCOTICS TEAM COQUILLE OR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SOUTH COAST INTERAGENCY NARCOTICS TEAM COQUILLE OR
+
+[[Block: Firm Names - 1800]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PUGET SOUND BLOOD CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CERUS CORPORATION/UNIVERSITY OF WASHINGTON/PUGET SOUND BLOOD CENTER (MCDERMOTT)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF COLLEGE PARK GA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF COLLEGE PARK COLLEGE PARK GA
+
+[[Block: Firm Names - 1810]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEW HAMPSHIRE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEW HAMPSHIRE DURHAM NH
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         VILLAGE OF LA GRANGE LA GRANGE IL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             VILLAGE OF LA GRANGE PARK LA GRANGE PARK IL
+
+[[Block: Firm Names - 1820]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF HARTFORD HARTFORD CT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF HARTFORD HOUSING AUTHORITY HARTFORD CT
+[[Choice: 2]] 
+             CITY OF HARTFORD HARTFORD CT
+[[Choice: 3]] 
+             CITY OF HARTFORD POLICE DEPARTMENT HARTFORD CT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BALDWIN COUNTY COMMISSION FAIRHOPE AL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BALDWIN COUNTY COMMISSION FAIRHOPE AL
+
+[[Block: Firm Names - 1830]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LOYOLA MARYMOUNT UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF BOZEMAN MT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF BOZEMAN MT
+
+[[Block: Firm Names - 1840]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ADVANCED SOLUTIONS FOR TOMMORROW
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ADVANCED SOLUTIONS FOR TOMORROW
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NOAA CHESAPEAKE BAY OFFICE ANNAPOLIS MD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NOAA
+[[Choice: 2]] 
+             ANNAPOLIS ANNAPOLIS MD
+[[Choice: 3]] 
+             NOAA CHESAPEAKE BAY OFFICE ANNAPOLIS MD
+
+[[Block: Firm Names - 1850]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF SOUTHERN CALIFORNIA VITERBI SCHOOL OF ENGINEERING INFORMATION SCIENCES INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF CALIFORNIA
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF SOUTHERN CALIFORNIA VITERBI SCHOOL OF ENGINEERING INFORMATION SCIENCES INSTITUTE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SARNOFF CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SARNOFF CORPORATION
+
+[[Block: Firm Names - 1860]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KSARIA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             KSARIA (KERRY TSONGAS)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         LAWRENCE TECHNOLOGICAL UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 1870]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NASSAU COUNTY POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NASSAU COUNTY POLICE DEPARTMENT MINEOLA NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WASHINGTON COUNTY OREGON
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WASHINGTON COUNTY MO
+
+[[Block: Firm Names - 1880]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF ALASKA AT FAIRBANKS FAIRBANKS AK
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF ALASKA AT FAIRBANKS FAIRBANKS AK
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         EAST BAY REGIONAL COMMUNICATIONS SYSTEM AUTHORITY DUBLIN CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             EAST BAY REGIONAL COMMUNICATIONS SYSTEM AUTHORITY DUBLIN CA
+
+[[Block: Firm Names - 1890]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GREAT LAKES SCIENCE CENTER CLEVELAND OH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GREAT LAKES SCIENCE CENTER CLEVELAND OH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NORTHROP GRUMMAN ELECTRONIC SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTHROP GRUMMAN ELECTRONIC SYSTEMS
+
+[[Block: Firm Names - 1900]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HENRY COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HENRY COUNTY SHERIFF NEW CASTLE KY
+[[Choice: 2]] 
+             HENRY COUNTY SHERIFF MARTINSVILLE VA
+[[Choice: 3]] 
+             SPRINGVILLE UTILITY DISTRICT OF HENRY COUNTY SPRINGVILLE TN
+[[Choice: 4]] 
+             MCHENRY COUNTY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HARRIS COUNTY CONSTABLE PRECINCT SIX HOUSTON IX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HARRIS COUNTY CONSTABLE PRECINCT 7
+
+[[Block: Firm Names - 1910]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL PARK SERVICE NATIONAL CAPITAL PARKS—EAST WASHINGTON DC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL PARK SERVICE WASHINGTON DC
+[[Choice: 2]] 
+             NATIONAL PARK SERVICE NATIONAL CAPITAL PARKS—EAST WASHINGTON DC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL SCIENCE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF MARYLAND CENTER FOR ENVIRONMENTAL SCIENCE (UMCES)
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF MARYLAND
+
+[[Block: Firm Names - 1920]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF TOLEDO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF TOLEDO LATE ERIE CENTER
+[[Choice: 2]] 
+             UNIVERSITY OF TOLEDO TOLEDO OH
+[[Choice: 3]] 
+             UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF TOLEDO OH
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OHEL CHILDRENS HOME AND FAMILY SERVICES BROOKLYN NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OHEL CHILDRENS HOME AND FAMILY SERVICES BROOKLYN NY
+
+[[Block: Firm Names - 1930]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHICAGO STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHICAGO STATE UNIVERSITY AND AMERICAN SCIENCE
+[[Choice: 2]] 
+             CHICAGO STATE UNIVERSITY (RUSH)
+[[Choice: 3]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BOYS AND GIRLS CLUB OF HAWAII HONOLULU HI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BOYS AND GIRLS CLUB OF HAWAII HONOLULU HI
+
+[[Block: Firm Names - 1940]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MTS TECHNOLOGIES INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MTS TECHNOLOGIES INC
+[[Choice: 2]] 
+             M7 TECHNOLOGIES INC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         INSTITUTE FOR MARINE MAMMAL STUDIES
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             INSTITUTE FOR MARINE MAMMAL STUDIES GULFPORT MS
+
+[[Block: Firm Names - 1950]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MORGAN STATE UNIVERSITY ESTUARINE RESEARCH CENTER ST LEONARD MD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MORGAN STATE UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             MORGAN STATE UNIVERSITY ESTUARINE RESEARCH CENTER ST LEONARD MD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OKLAHOMA STATE BUREAU OF INVESTIGATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OKLAHOMA STATE BUREAU OF INVESTIGATION OKLAHOMA CITY OK
+[[Choice: 2]] 
+             NC STATE BUREAU OF INVESTIGATION
+
+[[Block: Firm Names - 1960]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF DETROIT DETROIT ML
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF DETROIT ML
+[[Choice: 2]] 
+             CITY OF DETROIT DETROIT ML
+[[Choice: 3]] 
+             CITY OF DETROIT POLICE DEPARTMENT DETROIT ML
+[[Choice: 4]] 
+             CITY OF DETROIT MI
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COHERENT SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COHERENT SYSTEMS
+
+[[Block: Firm Names - 1970]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WISCONSIN OFFICE OF JUSTICE ASSISTANCE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WISCONSIN OFFICE OF JUSTICE ASSISTANCE MADISON WL
+[[Choice: 2]] 
+             JUSTICE ASSISTANCE RI
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHILDRENS HOSPITAL OF THE KINGS DAUGHTERS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHILDRENS HOSPITAL OF THE KINGS DAUGHTERS NORFOLK VA
+
+[[Block: Firm Names - 1980]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CHEYENNE RIVER SIOUX TRIBE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CHEYENNE RIVER SIOUX TRIBE EAGLE BUTTE SD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TOWNSHIP OF WOODBRIDGE WOODBRIDGE NJ
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TOWNSHIP OF WOODBRIDGE WOODBRIDGE NJ
+
+[[Block: Firm Names - 1990]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MISSISSIPPI MEDICAL CENTER JACKSON MS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF MISSISSIPPI MEDICAL CENTER JACKSON MS
+[[Choice: 3]] 
+             THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WAYNE COUNTY DETROIT ML
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WAYNE COUNTY PROSECUTORS OFFICE DETROIT ML
+[[Choice: 2]] 
+             WAYNE COUNTY PROSECUTOR DETROIT ML
+[[Choice: 3]] 
+             WAYNE COUNTY DEPARTMENT OF CHILDREN AND FAMILY SERVICES DETROIT ML
+[[Choice: 4]] 
+             WAYNE COUNTY DETROIT ML
+
+[[Block: Firm Names - 2000]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLEMSON AUBURN UMASS DARTMOUTH GEORGIA TECH CORNELL NC STATE UC DAVIS PHILADELPHIA UNIVERSITY
+[[Choice: 2]] 
+             ACIN CAMDEN CENTER FOR ENTREPRENEURSHIP IN TECHNOLOGY (DREXEL UNIVERSITY AND SARNOFF CORPORATION PARTNERSHIP)
+[[Choice: 3]] 
+             AUBURN UNIVERSITY
+[[Choice: 4]] 
+             ARKANSAS STATE UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ADVANCED CERAMICS RESEARCH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ADVANCED CERAMICS
+
+[[Block: Firm Names - 2010]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         JUSTICE ASSISTANCE RI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WISCONSIN OFFICE OF JUSTICE ASSISTANCE
+[[Choice: 2]] 
+             WISCONSIN OFFICE OF JUSTICE ASSISTANCE MADISON WL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NORTH CAROLINA WILMINGTON NC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 2020]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF MILWAUKEE POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MILWAUKEE POLICE DEPARTMENT
+[[Choice: 2]] 
+             MILWAUKEE POLICE DEPARTMENT MILWAUKEE WL
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         L 3 COMMUNICATIONS SONOMA EO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             L 3 COMMUNICATIONS SONOMA EO
+[[Choice: 2]] 
+             L 3
+
+[[Block: Firm Names - 2030]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DUPONT FAYETTEVILLE WORKS PLANT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DUPONT FAYETTEVILLE WORKS PLANT
+[[Choice: 2]] 
+             FAYETTEVILLE WORKS PLANT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GENERAL DYNAMICS ARMAMENTS AND TECHNICAL PRODUCTS (LEAHY SNOWE)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GENERAL DYNAMICS ARMAMENTS AND TECHNICAL PRODUCTS (LEAHY SNOWE)
+
+[[Block: Firm Names - 2040]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HUMAN DEVELOPMENT COMMISSION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HUMAN DEVELOPMENT COMMISSION CAM ML
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF NEW ORLEANS NEW ORLEANS LA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF NEW ORLEANS NEW ORLEANS LA
+[[Choice: 2]] 
+             UNIVERSITY OF NEW ORLEANS (LANDRIEU)
+[[Choice: 3]] 
+             TULANE UNIVERSITY NEW ORLEANS LA
+[[Choice: 4]] 
+             XAVIER UNIVERSITY NEW ORLEANS LA
+
+[[Block: Firm Names - 2050]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ONONDAGA COUNTY SYRACUSE NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COUNTY OF ONONDAGA SYRACUSE NY
+[[Choice: 2]] 
+             ONONDAGA COUNTY SYRACUSE NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF HOT SPRINGS POLICE DEPARTMENT HOT SPRINGS AR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF HOT SPRINGS POLICE DEPARTMENT HOT SPRINGS AR
+
+[[Block: Firm Names - 2060]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BRISTOL BAY BOROUGH AK
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BRISTOL BAY BOROUGH AK
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         EASTERN KENTUCKY PRIDE INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             EASTERN KENTUCKY PRIDE INC SOMERSET KY
+
+[[Block: Firm Names - 2070]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MAINE WARDEN SERVICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MAINE WARDEN SERVICE AUGUSTA ME
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ALABAMA DEPARTMENT OF PUBLIC SAFETY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ALABAMA DEPARTMENT OF PUBLIC SAFETY MONTGOMERY AL
+
+[[Block: Firm Names - 2080]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FLORIDA ARMY NATIONAL GUARD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FLORIDA NATIONAL GUARD
+[[Choice: 2]] 
+             FLORIDA ARMY NATIONAL GUARD
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE POINT COMMUNITY DEVELOPMENT CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             POINT COMMUNITY DEVELOPMENT CORPORATION BRONX NY
+
+[[Block: Firm Names - 2090]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CLAFLIN UNIVERSITY ORANGEBURG SC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLAFLIN UNIVERSITY ORANGEBURG SC
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OHIO AEROSPACE INSTITUTE AND GRAFTECH INTERNATIONAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OHIO AEROSPACE INSTITUTE AND GRAFTECH INTERNATIONAL
+
+[[Block: Firm Names - 2100]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HAWAII CRIMINAL JUSTICE DATA CENTER HILO HI
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HAWAII CRIMINAL JUSTICE DATA CENTER HILO HI
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF OAKLAND OAKLAND CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF OAKLAND OAKLAND CA
+
+[[Block: Firm Names - 2110]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF SAN DIEGO SAN DIEGO CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             THE CITY OF SAN DIEGO CALIFORNIA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         US ARMY RESEARCH DEVELOPMENT AND ENGINEERING COMMAND
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US ARMY
+[[Choice: 2]] 
+             US ARMY TANK AUTOMOTIVE RESEARCH DEVELOPMENT AND ENGINEERING CENTER
+[[Choice: 3]] 
+             US ARMY ENGINEER RESEARCH AND DEVELOPMENT CENTER CONSTRUCTION ENGINEERING RESEARCH LABORATORY
+
+[[Block: Firm Names - 2120]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OREGON STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OREGON STATE UNIVERSITY CORVALLIS OR
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             OREGON STATE UNIVERSITY (BLUMENAUER
+[[Choice: 4]] 
+             UNIVERSITY OF OREGON
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL FORENSIC SCIENCE TECHNOLOGY CENTER LARGO FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL FORENSIC SCIENCE TECHNOLOGY CENTER LARGO FL
+
+[[Block: Firm Names - 2130]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CLACKAMAS COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLACKAMAS COUNTY PORTLAND OR
+[[Choice: 2]] 
+             CLACKAMAS COUNTY OREGON CITY OR
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SCIENCE RESEARCH CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SCIENTIFIC RESEARCH CORPORATION
+
+[[Block: Firm Names - 2140]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF ROUND ROCK TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF ROUND ROCK ROUND ROCK TX
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MOBILVOX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MOBILVOX INC
+
+[[Block: Firm Names - 2150]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COOS COUNTY SHERIFFS OFFICE COQUILLE OR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COOS COUNTY SHERIFFS OFFICE COQUILLE OR
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNION COUNTY FL SHERIFF LAKE BUTLER FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNION COUNTY SHERIFF
+[[Choice: 2]] 
+             UNION COUNTY FL SHERIFF LAKE BUTLER FL
+[[Choice: 3]] 
+             LAKE COUNTY
+
+[[Block: Firm Names - 2160]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ULTRA ELECTRONICS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ULTRA ELECTRONICS
+[[Choice: 2]] 
+             EMSOLUTIONS (ARLINGTON VA) AND ULTRA ELECTRONICS (MANASSAS VA)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         TEXAS AGRICULTURAL EXPERIMENT STATION TEXAS A AND M UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             TEXAS A AND M UNIVERSITY
+[[Choice: 2]] 
+             TEXAS AGRICULTURAL EXPERIMENT STATION
+[[Choice: 3]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 2170]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL YOUTH SCIENCE FOUNDATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL YOUTH SCIENCE FOUNDATION CHARLESTON VW
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BRADLEY UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BRADLEY UNIVERSITY
+
+[[Block: Firm Names - 2180]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GOLDEN GATE NATIONAL PARKS/NATIONAL PARK SERVICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL PARK SERVICE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KIDSPEACE EVANSVILLE IN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             KIDSPEACE EVANSVILLE IN
+
+[[Block: Firm Names - 2190]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SURMET CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SURMET PRECISION OPTICS CORPORATION
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CARIBBEAN CORAL REEF INSTITUTE UNIVERSITY OF PUERTO RICO MAYAGUEZ PR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 2200]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL JUDICIAL COLLEGE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL JUDICIAL COLLEGE RENO NV
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COMPUTER SCIENCES CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COMPUTER SCIENCE CORPORATION
+
+[[Block: Firm Names - 2210]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL PARK SERVICE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL PARK SERVICE
+[[Choice: 2]] 
+             NATIONAL PARK SERVICE WASHINGTON DC
+[[Choice: 3]] 
+             NATIONAL PARK SERVICE ST AUGUSTINE FL
+[[Choice: 4]] 
+             NATIONAL PARK SERVICE MCLEAN VA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SUSSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT NEWTON NJ
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SUSSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT NEWTON NJ
+[[Choice: 2]] 
+             ESSEX COUNTY OFFICE OF EMERGENCY MANAGEMENT
+
+[[Block: Firm Names - 2220]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         US FOREST SERVICE SAWTOOTH NATIONAL RECREATION AREA KETCHUM ID
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             US FOREST SERVICE SAWTOOTH NATIONAL RECREATION AREA KETCHUM ID
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COUNTY OF LEHIGH ALLENTOWN PA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COUNTY OF LEHIGH ALLENTOWN PA
+[[Choice: 2]] 
+             LEHIGH COUNTY AUTHORITY ALLENTOWN PA
+
+[[Block: Firm Names - 2230]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UCLA SCHOOL OF PUBLIC HEALTH
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UCLA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MIAMI RYDER TRAUMA CENTER/WILLIAM LEHMAN INJURY RESEARCH CENTER
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF MIAMI
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF MIAMI RYDER TRAUMA CENTER
+[[Choice: 4]] 
+             UNIVERSITY OF MIAMI MIAMI FL
+
+[[Block: Firm Names - 2240]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF DETROIT MERCY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DIGIBEAM
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DIGIBEAM CORPORATION
+
+[[Block: Firm Names - 2250]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NORTH DAKOTA STATE UNIVERSITY CENTER FOR NANOSCALE SCIENCE AND ENGINEERING
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTH DAKOTA STATE UNIVERSITY CENTER FOR NANOSCALE SCIENCE AND ENGINEERING
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             NDSU CENTER FOR NANOSCALE SCIENCE AND ENGINEERING
+[[Choice: 4]] 
+             UNIVERSITY OF NORTH DAKOTA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DELAWARE STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF DELAWARE
+
+[[Block: Firm Names - 2260]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ASPEN AEROGELS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ASPEN AEROGELS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF MISSOULA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF MISSOULA MISSOULA MT
+
+[[Block: Firm Names - 2270]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DOOLY COUNTY COMMUNITY COALITION/FAMILY CONNECTION VIENNA GA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DOOLY COUNTY COMMUNITY COALITION/FAMILY CONNECTION VIENNA GA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF ARKANSAS CRIMINAL JUSTICE INSTITUTE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CRIMINAL JUSTICE INSTITUTE UNIVERSITY OF ARKANSAS SYSTEM
+[[Choice: 2]] 
+             UNIVERSITY OF ARKANSAS CRIMINAL JUSTICE INSTITUTE
+[[Choice: 3]] 
+             UNIVERSITY OF ARKANSAS CRIMINAL JUSTICE INSTITUTE LITTLE ROCK AR
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 2280]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF LAS VEGAS NV
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF LAS VEGAS NV
+[[Choice: 2]] 
+             CITY OF NORTH LAS VEGAS POLICE DEPARTMENT
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         WASHINGTON NATIONAL GUARD (BAIRD DICKS SMITH CANTWELL MURRAY)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             WASHINGTON NATIONAL GUARD (BAIRD DICKS SMITH CANTWELL MURRAY)
+
+[[Block: Firm Names - 2290]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE PENNSYLVANIA STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             THE PENNSYLVANIA STATE UNIVERSITY
+[[Choice: 3]] 
+             CENTER FOR EXCELLENCE FOR ELECTRO OPTICS AT PENNSYLVANIA STATE UNIVERSITY
+
+[[Block: Firm Names - 2300]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DEPARTMENT OF CHEMISTRY AND BIOCHEMISTRY UNIVERSITY OF SOUTH CAROLINA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DEPARTMENT OF CHEMISTRY AND BIOCHEMISTRY UNIVERSITY OF SOUTH CAROLINA
+[[Choice: 2]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DALLAS COUNTY SHERIFFS DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DALLAS COUNTY SHERIFFS DEPARTMENT DALLAS TX
+
+[[Block: Firm Names - 2310]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GIRL SCOUTS OF THE USA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GIRL SCOUTS USA
+[[Choice: 2]] 
+             GIRL SCOUTS OF THE USA NEW YORK NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         METROPOLITAN POLICE DEPARTMENT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             LASS VEGAS METROPOLITAN POLICE DEPARTMENT
+[[Choice: 2]] 
+             LOUISVILLE METROPOLITAN POLICE DEPARTMENT
+[[Choice: 3]] 
+             METROPOLITAN POLICE DEPARTMENT
+[[Choice: 4]] 
+             ST LOUIS METROPOLITAN POLICE DEPARTMENT ST LOUIS MO
+
+[[Block: Firm Names - 2320]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COBB COUNTY GOVERNMENT MARIETTA GA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COBB COUNTY GOVERNMENT MARIETTA GA
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KANSAS STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             KANSAS STATE UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             ARKANSAS STATE UNIVERSITY
+[[Choice: 4]] 
+             UNIVERSITY OF KANSAS
+
+[[Block: Firm Names - 2330]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OKLAHOMA DEPARTMENT OF SAFETY 
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OKLAHOMA DEPARTMENT OF SAFETY 
+[[Choice: 2]] 
+             OKLAHOMA DEPARTMENT OF PUBLIC SAFETY OKLAHOMA CITY OK
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         DIMENSION4
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             DIMENSION4 INC
+
+[[Block: Firm Names - 2340]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         OPERATION UNITE SOMERSET KY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OPERATION UNITE SOMERSET KY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PLANNING SYSTEMS INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PLANNING SYSTEMS INC
+
+[[Block: Firm Names - 2350]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CLACKAMAS COUNTY OREGON CITY OR
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CLACKAMAS COUNTY OREGON CITY OR
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         KENTUCKY STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF KENTUCKY
+
+[[Block: Firm Names - 2360]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ZERO TO THREE HATTIESBURG MS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ZERO TO THREE HATTIESBURG MS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         L 3 COMMUNICATIONS ILEX SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             L 3 COMMUNICATIONS
+[[Choice: 2]] 
+             L 3
+
+[[Block: Firm Names - 2370]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF CINCINNATI (DRIEHAUS)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY OF CINCINNATI (DRIEHAUS)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF FAYETTEVILLE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF FAYETTEVILLE
+[[Choice: 2]] 
+             MILITARY BUSINESS PARK CITY OF FAYETTEVILLE NC
+[[Choice: 3]] 
+             CITY OF FAYETTEVILLE FAYETTEVILLE NC
+[[Choice: 4]] 
+             CITY OF FAYETTEVILLE FAYETTEVILLE AR
+
+[[Block: Firm Names - 2380]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UTAH DEPARTMENT OF AGRICULTURE AND FOOD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CALIFORNIA DEPARTMENT OF FOOD AND AGRICULTURE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NEW JERSEY INSTITUTE OF TECHNOLOGY AT UNIVERSITY HEIGHTS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             NEW JERSEY INSTITUTE OF TECHNOLOGY AT UNIVERSITY HEIGHTS
+
+[[Block: Firm Names - 2390]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         IDAHO METH PROJECT
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             IDAHO METH PROJECT BOISE ID
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         A CHILD IS MISSING FT LAUDERDALE FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             A CHILD IS MISSING FT LAUDERDALE FL
+[[Choice: 2]] 
+             A CHILD IS MISSING INC FT LAUDERDALE FL
+
+[[Block: Firm Names - 2400]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF CALIFORNIA SAN DIEGO INSTITUTE ON GLOBAL CONFLICT AND COOPERATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY OF CALIFORNIA SAN DIEGO INSTITUTE ON GLOBAL CONFLICT AND COOPERATION
+[[Choice: 3]] 
+             UNIVERSITY OF CALIFORNIA SAN DIEGO
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NATIONAL CENTER FOR STATE COURTS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NATIONAL CENTER FOR STATE COURTS WILLIAMSBURG VA
+
+[[Block: Firm Names - 2410]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MCHENRY COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HENRY COUNTY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ST MARKS POWDER GENERAL DYNAMICS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GENERAL DYNAMICS
+
+[[Block: Firm Names - 2420]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HARLEM RBI INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HARLEM RBI INC NEW YORK NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MISSOULA COUNTY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MISSOULA COUNTY MISSOULA MT
+
+[[Block: Firm Names - 2430]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ADVANCED SCIENCE AND TECHNOLOGY ADJUDICATION RESOURCE CENTER INC (ASTAR) WASHINGTON DC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ADVANCED SCIENCE AND TECHNOLOGY ADJUDICATION RESOURCE CENTER INC (ASTAR) WASHINGTON DC
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         ECLIPSE ENERGY SYSTEMS INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             ECLIPSE ENERGY SYSTEMS INC
+
+[[Block: Firm Names - 2440]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PENNSYLVANIA STATE UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PENNSYLVANIA STATE UNIVERSITY
+[[Choice: 2]] 
+             UNIVERSITY
+[[Choice: 3]] 
+             THE PENNSYLVANIA STATE UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MONTEREY INSTITUTE FOR INTERNATIONAL AFFAIRS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MONTEREY INSTITUTE FOR INTERNATIONAL AFFAIRS
+
+[[Block: Firm Names - 2450]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         THE CITY OF BEECH GROVE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF BEECH GROVE BEECH GROVE IN
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COLUMBIA UNIVERSITY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COLUMBIA UNIVERSITY MEDICAL CENTER/SPINAL MUSCULAR ATROPHY FOUNDATION
+[[Choice: 2]] 
+             COLUMBIA UNIVERSITY
+[[Choice: 3]] 
+             UNIVERSITY OF MISSOURI COLUMBIA CENTER FOR BORANE TECHNOLOGY
+[[Choice: 4]] 
+             UNIVERSITY
+
+[[Block: Firm Names - 2460]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COUNTY COLLEGE OF MORRIS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MORRIS COLLEGE
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SACRAMENTO POLICE DEPARTMENT SACRAMENTO CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SACRAMENTO POLICE DEPARTMENT SACRAMENTO CA
+
+[[Block: Firm Names - 2470]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SYRACUSE RESEARCH CORPORATION (MAFFEI)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SYRACUSE RESEARCH CORPORATION (MAFFEI)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NORTH AMERICAN RESCUE PRODUCTS INC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTH AMERICAN RESCUE
+
+[[Block: Firm Names - 2480]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF HAWAII
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HAWAII CORAL REEF INITIATIVE UNIVERSITY OF HAWAII
+[[Choice: 2]] 
+             HAWAII INSTITUTE OF MARINE BIOLOGY UNIVERSITY OF HAWAII
+[[Choice: 3]] 
+             INTERNATIONAL PACIFIC RESEARCH CENTER UNIVERSITY OF HAWAII
+[[Choice: 4]] 
+             JOINT INSTITUTE FOR MARINE AND ATMOSPHERIC RESEARCH UNIVERSITY OF HAWAII
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         BOSCH REXROTH CORPORATION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             BOSCH REXROTH COPORATION
+
+[[Block: Firm Names - 2490]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         PANVISION FEDERAL SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             PANAVISION FEDERAL SYSTEMS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF KALISPELL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF KALISPELL KALISPELL MT
+
+[[Block: Firm Names - 2500]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NAVAL SURFACE WARFARE CENTER CARDEROCK DETACHMENT PHILADELPHIA AND PROGENY SYSTEMS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NAVAL SURFACE WARFARE CENTER CARDEROCK DETACHMENT PHILADELPHIA AND PROGENY SYSTEMS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF PALM BAY PALM BAY FL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF PALM BAY PALM BAY FL
+
+[[Block: Firm Names - 2510]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         FULTON MONTGOMERY COMMUNITY COLLEGE JOHNSTOWN NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             FULTON MONTGOMERY COMMUNITY COLLEGE JOHNSTOWN NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MARTIN LUTHER KING JR FREEDOM CENTER OAKLAND CA
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MARTIN LUTHER KING JR FREEDOM CENTER OAKLAND CA
+
+[[Block: Firm Names - 2520]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         UNIVERSITY OF MAINE
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         NORTHROP GRUMMAN
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             NORTHROP GRUMMAN MARINE SYSTEMS
+[[Choice: 2]] 
+             NORTHROP GRUMMAN AMHERST SYSTEMS
+[[Choice: 3]] 
+             NORTHROP GRUMMAN CORP
+[[Choice: 4]] 
+             NORTHROP GRUMMAN ELECTRONIC SYSTEMS
+
+[[Block: Firm Names - 2530]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         L 3 ELECTRO OPTICAL SYSTEMS DIVISION
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             L 3 ELECTRO OPTICAL SYSTEMS DIVISION
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         180TH FIGHTER WING OF THE OHIO NATIONAL GUARD
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             OHIO NATIONAL GUARD
+[[Choice: 2]] 
+             180TH FIGHTER WING OHIO AIR NATIONAL GUARD
+
+[[Block: Firm Names - 2540]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITIZENS FOR NYC NEW YORK NY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITIZENS FOR NYC NEW YORK NY
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         GUARDIAN ANGEL COMMUNITY SERVICES JOLIET IL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             GUARDIAN ANGEL COMMUNITY SERVICES JOLIET IL
+
+[[Block: Firm Names - 2550]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         HAMILTON SUNDSTRAND (MANZULLO DURBIN)
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             HAMILTON SUNDSTRAND (MANZULLO DURBIN)
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         SYNERGY SERVICES PARKVILLE MO
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             SYNERGY SERVICES PARKVILLE MO
+
+[[Block: Firm Names - 2560]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CITY OF HOUSTON HOUSTON TX
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             CITY OF HOUSTON HOUSTON TX
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MANTECH INTERNATIONAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MANTECH INTERNATIONAL
+
+[[Block: Firm Names - 2570]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MISSION HOSPITAL
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MISSION HOSPITALS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         COUNTY OF MONTEREY
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             COUNTY OF MONTEREY SALINAS CA
+[[Choice: 2]] 
+             COUNTY OF LOS ANGELES SHERIFFS DEPARTMENT MONTEREY PARK CA
+
+[[Block: Firm Names - 2580]]
+[[Question:MC:MultipleAnswer:Vertical]] 
+         MAROTTA CONTROLS
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             MAROTTA CONTROLS
+[[Choice: 2]] 
+             MAROTTA SCIENTIFIC CONTROLS
+
+[[Question:MC:MultipleAnswer:Vertical]] 
+         CLEMSON UNIVERSITY CLEMSON SC
+
+[[AdvancedChoices]] 
+[[Choice: 1]] 
+             UNIVERSITY
+[[Choice: 2]] 
+             CLEMSON UNIVERSITY CLEMSON SC
+[[Choice: 3]] 
+             CLEMSON AUBURN UMASS DARTMOUTH GEORGIA TECH CORNELL NC STATE UC DAVIS PHILADELPHIA UNIVERSITY
+
